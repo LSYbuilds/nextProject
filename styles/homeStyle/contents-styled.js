@@ -5,6 +5,7 @@ export const ContentsStyle = styled.div`
   height: auto;
   background: #101725;
   .inner {
+    position: relative;
     display: flex;
     flex-direction: column;
     padding-top: 50px;
@@ -126,7 +127,7 @@ export const ContentsStyle = styled.div`
               top: 50%;
               left: 50%;
               transform: translate(-50%, -50%);
-              height: 75%;
+              width: 100%;
             }
           }
           .skill_text {

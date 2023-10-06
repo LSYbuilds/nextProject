@@ -37,9 +37,9 @@ const Contents = () => {
       pic: "/image/redux.png",
       text: "상태관리 라이브러리인 Redux-toolkit 등을 활용해서 다양한 방식의 상태를 관리하거나 전역으로 데이터를 관리하는 등의 작업이 가능합니다.",
     },
-    { data: 82, name: "데이터활용" },
-    { data: 72, name: "라이브러리 활용" },
-    { data: 68, name: "디자인" },
+    { data: 82, name: "데이터활용 / 소스관리 ", pic: "/image/data.png" },
+    { data: 72, name: "라이브러리 활용", pic: "/image/library.png" },
+    { data: 68, name: "디자인", pic: "/image/des.png" },
   ];
 
   const PortFolioData = [
